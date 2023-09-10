@@ -1,5 +1,5 @@
 
-Homework 1 Coding revising
+Homework 1 Code revising
 
 
 Description:
